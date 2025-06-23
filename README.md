@@ -4,9 +4,10 @@ A lightweight/minimal PoC Python tool to convert **GALILEO** Fault Tree models (
 
 ## 📁 Repository Structure
 
+```text
 .
 ├── gal2opsa.py        # main conversion script
-├── mef.xsd            # Open‑PSA XML Schema
+├── mef.xsd            # Open-PSA XML Schema
 └── examples/
     ├── baobab.gal
     ├── baobab.xml
@@ -14,6 +15,7 @@ A lightweight/minimal PoC Python tool to convert **GALILEO** Fault Tree models (
     ├── edf9203.xml
     ├── nus9601.gal
     └── nus9601.xml
+```
 
 ## 🚀 Usage
 
