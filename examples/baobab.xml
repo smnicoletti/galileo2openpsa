@@ -2,369 +2,186 @@
 <opsa-mef>
   <define-fault-tree name="r1">
     <define-basic-event name="e1">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e23">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e55">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e53">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e21">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e54">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e24">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e57">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e22">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e56">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e27">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e25">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e28">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e26">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e3">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e16">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e30">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e32">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e2">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e15">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e29">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e31">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e5">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e4">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e59">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e11">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e35">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e60">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e33">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e58">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e36">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e61">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e34">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e39">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e37">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e40">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e38">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e18">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e20">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e10">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e17">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e19">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e13">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e12">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e50">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e49">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e52">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e51">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e14">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e43">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e41">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e44">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e42">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e47">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e45">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e48">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e46">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e8">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e9">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e6">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-basic-event name="e7">
-      <attributes>
-        <attribute name="dormancy" value="1"/>
-      </attributes>
       <float value="0.0100503"/>
     </define-basic-event>
     <define-gate name="r1">
